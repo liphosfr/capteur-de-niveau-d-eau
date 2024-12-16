@@ -40,7 +40,7 @@ Il faut maintenant fermer la bouteille en plaçant le capteur dans le goulot et 
 
 Voila c'est terminé, quelques "Serflex" bien placés aideront peut être à remonter tous les morceaux en cas de défaillance de la colle.
 
-![Capteur complet](images/180px-MPX4250_5.JPG)
+![Capteur complet](images/180px-MPX4250_6.JPG)
 
 <h2>Étalonnage</h2>
 <h3>Théorie</h3>
